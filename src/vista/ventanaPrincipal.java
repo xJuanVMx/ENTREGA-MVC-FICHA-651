@@ -28,7 +28,7 @@ public class ventanaPrincipal extends JFrame {
 
     public ventanaPrincipal() {
 
-        setTitle("DON APARATO");
+        setTitle("Ventana Principal");
         setSize(650,500);
         getContentPane().setBackground(Color.LIGHT_GRAY);
         setLayout(null);
