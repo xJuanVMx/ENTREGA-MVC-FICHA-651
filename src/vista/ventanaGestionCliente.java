@@ -17,7 +17,7 @@ public class ventanaGestionCliente extends JFrame {
         this.coord = coord;
         this.historialAnterior = historial;
 
-        setTitle("Ventana principal");
+        setTitle("Gestión de usuario");
         setSize(380, 250);
         getContentPane().setBackground(Color.LIGHT_GRAY);
         setLayout(null);
